@@ -1,6 +1,6 @@
 # AI-Voice-Assistant
 
-A voice-controlled assistant built with Python, LiveKit, and OpenAI
+A voice-controlled assistant built with Python, LiveKit, and OpenAI.
 
 # Features
 
